@@ -1,5 +1,5 @@
 {
-    "name": "codepeak/oauth2-fortnox",
+    "name": "SrinivasPrabhu794/oauth2-fortnox",
     "description": "A Fortnox provider for league/oauth2-client",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "php": ">=8.0",
+        "php": ">=7.0",
         "league/oauth2-client": "^2.6"
     },
     "require-dev": {
