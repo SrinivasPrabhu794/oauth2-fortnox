@@ -6,7 +6,7 @@ This is a package to integrate [Fortnox](https://developer.fortnox.se/general/au
 ## Installation
 
 ```bash
-composer require codepeak/oauth2-fortnox
+composer require srinivasprabhu794/oauth2-fortnox
 ```
 
 ## Usage
