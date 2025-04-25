@@ -1,11 +1,11 @@
 {
-    "name": "SrinivasPrabhu794/oauth2-fortnox",
+    "name": "srinivasprabhu794/oauth2-fortnox",
     "description": "A Fortnox provider for league/oauth2-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Robert Lord, Codepeak AB",
-            "email": "robert@codepeak.se"
+            "name": "Srinivas Prabhu, Propile SE",
+            "email": "srinivasprabhu794@gmail.com"
         }
     ],
     "autoload": {
