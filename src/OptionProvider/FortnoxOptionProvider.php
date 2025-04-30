@@ -6,7 +6,7 @@ use League\OAuth2\Client\OptionProvider\PostAuthOptionProvider;
 
 class FortnoxOptionProvider extends PostAuthOptionProvider
 {
-    protected string $base64AuthString = '';
+    protected $base64AuthString = '';
 
     public function __construct(string $base64AuthString = '')
     {
